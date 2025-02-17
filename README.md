@@ -8,12 +8,6 @@
 
 ---
 
-<h4>Information</h4>
-
-- Demo phishing page for instagram
-
----
-
 <h4>Improvements</h4>
 
 - Add OTP Bypass (Could be a selenium browser listening for change in the database and login automatically to send 2fa code)
