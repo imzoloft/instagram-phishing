@@ -4,7 +4,7 @@
 
 ---
 
-<img src="assets/demo.png" width="500px" />
+<img src="assets/demo.png" width="700px" />
 
 ---
 
